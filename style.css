@@ -1,0 +1,23 @@
+
+.header{
+    top: 45px;
+}
+#btn1{
+    bottom: 98.75%
+}
+.secheading1{
+    width: 900px;
+height: 230px;
+left: 230px;
+right: 15.9%;
+top: 250px;
+margin-left: 20%;
+margin-top: 8%;
+
+}
+.RectangletoRight{
+    background: linear-gradient(300.62deg, #06B6D4 0%, #0E7490 0.01%, #0284C7 63.06%);
+    border: 2px solid #FAFAFA;
+    
+
+}
